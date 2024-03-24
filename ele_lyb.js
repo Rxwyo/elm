@@ -1,3 +1,4 @@
+const $ = new Env('饿了么乐园币');
 /**
  * @平行绳 飞机频道：https://t.me/tigerorrose
  * 变量：elmck: 必填，账号cookie，短信登录面板项目地址：https://github.com/funaihui/eleWeb
