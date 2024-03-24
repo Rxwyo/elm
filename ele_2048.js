@@ -2,7 +2,7 @@
  * @平行绳 飞机频道：https://t.me/tigerorrose
  * 变量：elmck: 必填，账号cookie，短信登录面板项目地址：https://github.com/funaihui/eleWeb
  * 卡密地址：http://card.94wan.fun:90
- * cron: 11 8 * * *
+ * cron: 11 12,13,14,15,21,22,23 * * *
  * 2023.7.15 首次发布，需要安装 moment和 md5 依赖
  */
 
