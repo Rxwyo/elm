@@ -1,8 +1,4 @@
 /*
-2023/9/30 -QQ昵称
-common.js
-直接替换目录下的common.js即可
-无加密，拒绝盗ck、助力
 
 平行绳饿了么备份库：ql repo https://github.com/hicongcn/elm.git "^ele" "" "USER|common|ql|sendNotify1"
 
@@ -271,7 +267,7 @@ const _0x53fee8 = async (_0x3bc174, _0x2719db, _0x5af601 = 5) => {
 const _0x2c412b = async (_0x2b0217, _0x476507, _0x30fa7a, _0x3a8264 = 5) => {
 };
 const _0x171be3 = async (_0x3fe456, _0x5e4065, _0x5b7be9 = 5) => {
-  console["log"]("QQ昵称解密\n");
+  console["log"]("By 幼稚园小妹妹\n");
 };
 async function _0x5bcbae(_0x23aeb9) {
   return new Promise(_0x3b6a77 => {
