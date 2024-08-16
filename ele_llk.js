@@ -1,8 +1,6 @@
-/*
-一天运行两次以上
-连连看300乐园币
-*/
-
+//Mon Aug 12 2024 18:31:12 GMT+0000 (Coordinated Universal Time)
+//Base:https://github.com/echo094/decode-js
+//Modify:https://github.com/smallfawn/decode_action
 const P = v,
   F = v,
   f = v;
